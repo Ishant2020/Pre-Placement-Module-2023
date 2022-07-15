@@ -1,14 +1,14 @@
 # Pre-Placement-Module-2023
 
-- Name: 
-- University Roll No.:
-- Branch:
-- Section:
+- Name: Ishant Singh
+- University Roll No.: 2000290219005
+- Branch: Electrical and Electronics
+- Section: C
 - Preferred Programming Language: C++/Java/Python
 
 ## Coding Profiles
-- LeetCode: [FIRSTNAME_LASTNAME](https://leetcode.com/YourLeetCodeUserName/)
-- HackerRank: [FIRSTNAME_LASTNAME](https://www.hackerrank.com/HackerRankUserName)
+- LeetCode: [Ishant_Singh20](https://leetcode.com/YourLeetCodeUserName/)
+- HackerRank: [Ishant_Singh20](https://www.hackerrank.com/HackerRankUserName)
 
 ## Placement Module
 1. [DS I](https://github.com/YOURGITHUBUSERNAME/Pre-Placement-Module-2023/tree/main/DS%20I)
